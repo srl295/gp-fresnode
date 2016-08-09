@@ -11,7 +11,7 @@ TODO
 SETUP
 ---
 
-* construct a GP instance - see the quick start guide
+* construct a Globalization Pipeline instance - see the [quick start guide](https://github.com/IBM-Bluemix/gp-common/blob/master/README.md#quick-start-guide)
 * create a bundle with the same name as in `package.json` (in this case `gp-fresnode`) 
 * upload `fresnode.json` to that bundle
 * setup local creds `local-config.json` and/or deploy as a bound app
