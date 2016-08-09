@@ -19,4 +19,4 @@ SETUP
 LICENSE
 ---
 
-Apache-2.0
+Apache-2.0, see [LICENSE.txt](LICENSE.txt)
